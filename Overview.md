@@ -1,4 +1,4 @@
-Javascript Workshop FH Salzburg WS 2013/2014
+JavaScript Workshop FH Salzburg WS 2013/2014
 ============================================
 
 Dienstag bis Freitag
@@ -12,38 +12,41 @@ Dienstag: Node.js schon mal gehört oder?
 - Node.js Basics (25min)
 
 ### Nachmittag
-- Build Node.js script/app (45min)
+- Wir bauen etwas mit Node.js script/app (45min)
 - Node.js und die Reale Welt (45min)
 
 
-Mittwoch: TDD/BDD/Whatever!
----------------------------
+Mittwoch: Testing, is this thing on?
+------------------------------------
 ### Vormittag
-- TDD und Javascript mit Jasmine (45min)
+- TDD und JavaScript mit Jasmine (45min)
 
 ### Nachmittag
 - TDD und DOM (45min)
-- Einführung in Ember (45min)
+- Einführung in Ember (45min) (vielleicht auch erst Donnerstag)
 
 
-Donnerstag
-----------
+Donnerstag: City of Ember
+-------------------------
 ### Vormittag
-- Build an App with Ember I (45min)
+- An app of Ember I (45min)
 
 ### Nachmittag
-- Build an App with Ember II (45min)
+- An app of Ember II (45min)
 - Learn from the masters: A tour through Discourse (45min)
 
 
-Freitag
--------
+Freitag: Atwood’s Law, is not an actual law!
+--------------------------------------------
+"Any application that can be written in Javascript, will eventually be written
+in javascript”.
+
 ### Vormittag
-- Rails und Javascript(45min)
+- Rails und JavaScript(45min)
 
 ### Nachmittag
 - Rails Asset Pipeline (45min)
-- Alternativen zu Javascript (45min)
+- Alternativen zu JavaScript (45min)
   - Typescript
   - Clojurescript
   - Coffeescript
