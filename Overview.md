@@ -1,39 +1,41 @@
 JavaScript Workshop FH Salzburg WS 2013/2014
 ============================================
 
-Dienstag bis Freitag
-Vormittag 45min
-Nachmittag 2 x 45min
+Tuesday - Friday
+Morning 45min
+Afternoon 2 x 45min
 
-Dienstag: Node.js schon mal gehört oder?
-----------------------------------------
-### Vormittag
-- Begrüssung und Themenübersicht (20min)
+Tuesday: Something about Node.js
+--------------------------------
+### Morning
+- Introduction (20min)
 - Node.js Basics (25min)
 
-### Nachmittag
-- Wir bauen etwas mit Node.js script/app (45min)
-- Node.js und die Reale Welt (45min)
+### Afternoon
+- We build something with Node.js (45min)
+- Node.js and the real world (45min)
 
 
-Mittwoch: Testing, is this thing on?
+Wednesday: Testing, is this thing on?
 ------------------------------------
-### Vormittag
-- TDD und JavaScript mit Jasmine (45min)
+### Morning
+- TDD and JavaScript with Jasmine (45min)
 
-### Nachmittag
-- TDD und DOM (45min)
-- Einführung in Ember (45min) (vielleicht auch erst Donnerstag)
+### Afternoon
+- TDD and DO(O)M (45min)
+- Introduction to Ember (45min)
 
 
 Donnerstag: City of Ember
 -------------------------
-### Vormittag
+### Morning
 - An app of Ember I (45min)
 
-### Nachmittag
+### Afternoon
 - An app of Ember II (45min)
 - Learn from the masters: A tour through Discourse (45min)
+
+- (Optionally) Setting up for discourse development!
 
 
 Freitag: Atwood’s Law, is not an actual law!
@@ -41,12 +43,12 @@ Freitag: Atwood’s Law, is not an actual law!
 "Any application that can be written in Javascript, will eventually be written
 in javascript”.
 
-### Vormittag
-- Rails und JavaScript(45min)
+### Morning
+- Rails and JavaScript(45min)
 
-### Nachmittag
+### Afternoon
 - Rails Asset Pipeline (45min)
-- Alternativen zu JavaScript (45min)
+- Alternatives to JavaScript (45min)
   - Typescript
   - Clojurescript
   - Coffeescript
