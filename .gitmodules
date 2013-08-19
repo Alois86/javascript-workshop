@@ -1,6 +1,0 @@
-[submodule "introduction"]
-	path = introduction
-	url = git@github.com:hakimel/reveal.js.git
-[submodule "something-about-node"]
-	path = something-about-node
-	url = git@github.com:hakimel/reveal.js.git
