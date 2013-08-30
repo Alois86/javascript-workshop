@@ -1,0 +1,8 @@
+{
+  "name": "Introduction",
+  "description": "Introduction for JavaScript Workshop at FH Salzburg",
+  "author": "Philipp Fehre (@sideshowcoder)",
+  "sections": [
+    {"section":"slides"}
+  ]
+}

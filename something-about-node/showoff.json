@@ -1,0 +1,10 @@
+{
+  "name": "Something about node.js",
+  "description": "Node by example, and a basic introduction",
+  "author": "Philipp Fehre (@sideshowcoder)",
+  "sections": [
+    {"section":"basics"},
+    {"section":"build"},
+    {"section":"realworld"}
+  ]
+}

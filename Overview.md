@@ -5,34 +5,34 @@ Tuesday - Friday
 Morning 45min
 Afternoon 2 x 45min
 
-Tuesday: Something about Node.js
+Tuesday: Something about node.js
 --------------------------------
 ### Morning
 - Introduction (20min)
-- Node.js Basics (25min)
+- node.js Basics (25min)
 
 ### Afternoon
-- We build something with Node.js (45min)
-- Node.js and the real world (45min)
+- We build something with Node.js part I (45min)
+- We build something with Node.js part II (45min)
 
 
 Wednesday: Testing, is this thing on?
 ------------------------------------
 ### Morning
-- TDD and JavaScript with Jasmine (45min)
+- Node.js and the real world (45min)
 
 ### Afternoon
+- TDD and JavaScript with Jasmine (45min)
 - TDD and DO(O)M (45min)
-- Introduction to Ember (45min)
 
 
 Donnerstag: City of Ember
 -------------------------
 ### Morning
-- An app of Ember I (45min)
+- Introduction to Ember (45min)
 
 ### Afternoon
-- An app of Ember II (45min)
+- An app of Ember (45min)
 - Learn from the masters: A tour through Discourse (45min)
 
 - (Optionally) Setting up for discourse development!
