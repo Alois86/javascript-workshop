@@ -64,5 +64,3 @@ FIXME!!!!! Missing KATA!!!!
 * DOM is inconsitent!
 ... so it is worth it ;)
 
-
-
