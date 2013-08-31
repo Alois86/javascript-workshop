@@ -1,0 +1,3 @@
+tdd and jasmine intro
+* Select a code kata for the students
+
