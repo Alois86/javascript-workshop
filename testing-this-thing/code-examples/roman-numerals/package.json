@@ -4,7 +4,7 @@
   "description": "roman-numerals code kata",
   "main": "index.js",
   "scripts": {
-    "test": "jasmine-node"
+    "test": "jasmine-node spec"
   },
   "repository": "",
   "keywords": [
@@ -12,5 +12,8 @@
     "roman-numerals"
   ],
   "author": "philipp.fehre@gmail.com",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine-node": "~1.11.0"
+  }
 }
