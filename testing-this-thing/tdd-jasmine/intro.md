@@ -53,7 +53,17 @@ You guys are are better than 50% of the devs I work with already :)
 
 !SLIDE
 # Go and Code!
-FIXME!!!!! Missing KATA!!!!
+Roman numerals converter
+
+!SLIDE
+# Spec
+1 -> I, 2  -> II
+4 -> IV 5  -> V
+9 -> IX 10 -> X
+you get the point...
+
+!SLIDE
+# How did it go?
 
 !SLIDE
 # Ok this is all nice and shiny isn't it?
