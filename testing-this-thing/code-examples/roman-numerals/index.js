@@ -1,21 +1,28 @@
+var CONVERSION_TABLE = [
+  { num: 1000, glyph: "M" },
+  { num: 900, glyph: "CM" },
+  { num: 500, glyph: "D" },
+  { num: 400, glyph: "CD" },
+  { num: 100, glyph: "C" },
+  { num: 90, glyph: "XC" },
+  { num: 50, glyph: "L" },
+  { num: 40, glyph: "XL" },
+  { num: 10, glyph: "X" },
+  { num: 5, glyph: "V" },
+  { num: 4, glyph: "IV" },
+  { num: 1, glyph: "I" },
+]
+
 var convert = function(n) {
   var res = []
-  while(n >= 10) {
-   res.push("X")
-   n = n - 10
-  }
-  while(n >= 5) {
-   res.push("V")
-   n = n - 5
-  }
-  while(n >= 4) {
-   res.push("IV")
-   n = n - 4
-  }
-  while(n >= 1) {
-   res.push("I")
-   n = n - 1
-  }
+
+  CONVERSION_TABLE.forEach(function(e) {
+    while(n >= e.num) {
+      res.push(e.glyph)
+      n = n - e.num
+    }
+  })
+
   return res.join("")
 }
 
