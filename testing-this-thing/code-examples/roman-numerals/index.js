@@ -17,10 +17,7 @@ var convert = function(n) {
   var res = []
 
   CONVERSION_TABLE.forEach(function(e) {
-    while(n >= e.num) {
-      res.push(e.glyph)
-      n = n - e.num
-    }
+    for(; n >= e.num; res.push(e.glyph), n = n - e.num);
   })
 
   return res.join("")
