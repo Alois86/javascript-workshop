@@ -8,6 +8,6 @@ end
 
 describe Foo do
   it "is great" do
-    Foo.new.great?.must_be true
+    Foo.new.great?.must_equal true
   end
 end
