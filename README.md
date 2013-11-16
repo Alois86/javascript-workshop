@@ -1,56 +1,39 @@
 JavaScript Workshop FH Salzburg WS 2013/2014
 ============================================
 
-Tuesday - Friday
-Morning 45min
-Afternoon 2 x 45min
+Wednesday
+1045 - 1215 2x 45min
+1230 - 1315 1x 45min
+1415 - 1545 2x 45min
 
-Tuesday: Something about node.js
+Thurday
+1145 - 1315 1x 45min
+1330 - 1415 2x 45min
+
+Wednesday
+1000 - 1130 2x 45min
+1145 - 1230 1x 45min
+1330 - 1500 2x 45min
+
+Wednesday: Something about node.js
 --------------------------------
-### Morning
-- Introduction (20min)
-- node.js Basics (25min)
-
-### Afternoon
-- We build something with Node.js part I (45min)
-- We build something with Node.js part II (45min)
+- Introduction
+- node.js basics
+- Building something with node.js
+- node.js in the "real world"
 
 
-Wednesday: Testing, is this thing on?
+Thursday: Testing, is this thing on?
 ------------------------------------
-### Morning
-- Node.js and the real world (45min)
-
-### Afternoon
-- TDD and JavaScript with Jasmine (45min)
-- TDD and DO(O)M (45min)
+- Testing with jasmine
+- DOM testing with jasmine
+- Building something guided by tests
 
 
-Donnerstag: City of Ember
--------------------------
-### Morning
-- Introduction to Ember (45min)
+Friday: City of Ember
+---------------------
+- Some background to ember
+- Learn from the masters: A quick look around Riak Control
+- Building an App with Ember
 
-### Afternoon
-- An app of Ember (45min)
-- Learn from the masters: A tour through Discourse (45min)
-
-- (Optionally) Setting up for discourse development!
-
-
-Freitag: Atwood’s Law, is not an actual law!
---------------------------------------------
-"Any application that can be written in Javascript, will eventually be written
-in javascript”.
-
-### Morning
-- Rails and JavaScript(45min)
-
-### Afternoon
-- Rails Asset Pipeline (45min)
-- Alternatives to JavaScript (45min)
-  - Typescript
-  - Clojurescript
-  - Coffeescript
-
-
+- Experiences with around the JavaScript Stack

@@ -48,3 +48,7 @@
   - Live Code? Students build it?
   - provide some css (TODO)
 
+
+- http://net.tutsplus.com/tutorials/javascript-ajax/getting-into-ember-js/
+- http://blog.embed.ly/post/46586649344/introduction-to-ember-development
+
