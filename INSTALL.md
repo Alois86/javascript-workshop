@@ -6,21 +6,24 @@ Wichtig
 - [node.js](http://nodejs.org) in einer der neueren Versionen (>= 0.10)
 - [ruby](https://www.ruby-lang.org/en/) in version >= 1.9
 - [npm](http://npmjs.org) sollte bei node dabei sein aber lieber nochmal prüfen
-- [chrome](https://www.google.com/intl/en/chrome/browser/)
+- [chrome](https://www.google.com/intl/en/chrome/browser/) oder einen anderen modernen Browser
 
 Optional
 --------
-Zum mitverfolgen einer Section wird es eine Virtuelle Machine geben.
-
+Zum mitverfolgen einer Sektion wird es eine Virtuelle Machine geben. Wenn ihr diese auch auf 
+eurem eigenen Rechner haben wollt dann braucht ihr:
 - [Virtualbox](https://www.virtualbox.org)
 - [Vagrant](http://www.vagrantup.com)
-- [Ember Inspector](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi?hl=en) um euch das leben einfacher zu machen
+ 
+Um euch das Leben mit Ember.js etwas einfacher zu machen, empfehle ich euch ausserdem
+- [Ember Inspector](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi?hl=en)
 
-Ausserdem
+Sonstiges
 ---------
-- Entweder Linux, MacOSX, BSD oder ein Unix euerer Wahl, bei Windows kann ich
-  leider keinen Support leisten. Falls Windows installiert ist hohlt euch am
-  besten Ubuntu in einer Virtuellen Machine
-- Ein TextEditor / IDE mit der ihr umgehen könnt, besondere Ansprüche gibt es da
-  nicht.
+- Falls ihr als Betriebssystem ein Unix (Linux, MacOSX, BSD) verwendet kann ich euch weiterhelfen
+bei Windows leider nicht. Falls ihr also Windows verwendet würde ich euch dazu raten eine VM mit 
+Linux zu installieren, just in case, Virtualbox und Ubuntu leisten hier gute Dienste.
+- Ein TextEditor / IDE mit dem / der ihr umgehen könnt, braucht ihr auch.
+
+Falls es dabei mit irgendwas Probleme geben solltet können wir das bestimmt lösen, einfach bescheid sagen.
 
