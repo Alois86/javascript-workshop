@@ -1,19 +1,19 @@
 JavaScript Workshop FH Salzburg WS 2013/2014
 ============================================
 
-Wednesday
-1045 - 1215 2x 45min
-1230 - 1315 1x 45min
-1415 - 1545 2x 45min
+### Wednesday
+- 1045 - 1215 2x 45min
+- 1230 - 1315 1x 45min
+- 1415 - 1545 2x 45min
 
-Thurday
-1145 - 1315 1x 45min
-1330 - 1415 2x 45min
+### Thurday
+- 1145 - 1315 1x 45min
+- 1330 - 1415 2x 45min
 
-Friday
-1000 - 1130 2x 45min
-1145 - 1230 1x 45min
-1330 - 1500 2x 45min
+### Friday
+- 1000 - 1130 2x 45min
+- 1145 - 1230 1x 45min
+- 1330 - 1500 2x 45min
 
 Wednesday: Something about node.js
 --------------------------------
