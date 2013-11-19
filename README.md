@@ -10,7 +10,7 @@ Thurday
 1145 - 1315 1x 45min
 1330 - 1415 2x 45min
 
-Wednesday
+Friday
 1000 - 1130 2x 45min
 1145 - 1230 1x 45min
 1330 - 1500 2x 45min
