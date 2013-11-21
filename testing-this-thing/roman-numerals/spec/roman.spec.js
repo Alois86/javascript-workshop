@@ -58,10 +58,10 @@ describe("to_roman", function() {
   })
 
   it("outputs m for 2129", function() {
-    expect(convert(2129)).toBe("MMCXXVIV")
+    expect(convert(2129)).toBe("MMCXXIX")
   })
 
   it("outputs for 3999", function() {
-    expect(convert(3999)).toBe("MMMCMXCVIV")
+    expect(convert(3999)).toBe("MMMCMXCIX")
   })
 })

@@ -8,6 +8,7 @@ var CONVERSION_TABLE = [
   { num: 50, glyph: "L" },
   { num: 40, glyph: "XL" },
   { num: 10, glyph: "X" },
+  { num: 9, glyph: "IX" },
   { num: 5, glyph: "V" },
   { num: 4, glyph: "IV" },
   { num: 1, glyph: "I" },
