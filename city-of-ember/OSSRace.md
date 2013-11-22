@@ -7,10 +7,18 @@ Install what we need to get started
 -----------------------------------
     npm install -g yo grunt-cli bower generator-ember grunt-contrib-compass
     gem install compass
+    mkdir osrc-race
+    cd osrc-race
 
 Run the yoeman generator Ember
 ------------------------------
     yo ember
+    
+Setup the project
+-----------------
+    npm install --save request
+    npm install
+    bower install
 
 Setup the proxy so we can Interact with external resources
 ----------------------------------------------------------
